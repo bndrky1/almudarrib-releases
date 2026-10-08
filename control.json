@@ -1,7 +1,8 @@
 {
- "seq": 10,
+ "seq": 11,
  "revoked": [
-  "k1-2724"
+  "k1-2724",
+  "k3-7c3a"
  ],
  "lock_all": false,
  "extend": {
@@ -10,5 +11,5 @@
   "k3-7c3a": "2026-09-01"
  },
  "msg": "",
- "sig": "2AeWYOVXwpwG6j+35iS3olhWylfsGavMRQ6kOkm/XKPaqoI5TpsNGEcxSF6eIU/g5E+fKX+YGC7VgdXE1isTBw=="
+ "sig": "wbXFytXrYwU2jOjJEyXlSRoIlptLrCfqOv4+yVmAiDe+MWS/kNG+LFK1JRCRa6dQ127Yb4tR/scXOp8tWxP4Cg=="
 }

@@ -1,10 +1,12 @@
 {
- "seq": 4,
+ "seq": 5,
  "revoked": [
   "k1-2724"
  ],
  "lock_all": false,
- "extend": {},
+ "extend": {
+  "k2-873d": "2026-11-14"
+ },
  "msg": "",
- "sig": "281cYhtfAaX01FS61gMcepEgXvo5osZvGwK8n3SIAkZe4ksKeONq5ffU8feW2F1PIr5MoVmtDYwlKxIRAWeCCw=="
+ "sig": "wfPN6tzSb22Y5xXbwsT+L0VDbWGxumha+HJoHTAI4M82PDE/mktvbCMDeHPDvO2p1A02izbfM7dvMWlxMHe5Bg=="
 }

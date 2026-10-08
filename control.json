@@ -1,10 +1,8 @@
 {
- "seq": 2,
- "revoked": [
-  "k1-2724"
- ],
+ "seq": 3,
+ "revoked": [],
  "lock_all": false,
  "extend": {},
  "msg": "",
- "sig": "NbfAbujSk1k6nYmapK2BbCFuzI1LtpGf2q8xmWbHdjWVjqQ/w+aY0ayTWps6NL2UyZhE2fJOGHFuc6oqz/LiDQ=="
+ "sig": "+YuySd5Ge1vIamgaNweoS3IFwkKk4VprY2qJglVbXUCSVdQPfo3/gtKhXo95DGjg1dL3M4QmSk9WLykhRDcTAw=="
 }

@@ -1,12 +1,13 @@
 {
- "seq": 6,
+ "seq": 7,
  "revoked": [
   "k1-2724"
  ],
  "lock_all": false,
  "extend": {
-  "k2-873d": "2026-12-14"
+  "k2-873d": "2026-12-14",
+  "k1-14df": "2026-12-07"
  },
  "msg": "",
- "sig": "9nph5SBZIwZ+OZ/Yv9LWFFU+kQIsSCd6NHOrcDqwCi3rAza19Im6ka/dY2K9RBzhy+y5au7J9bc8M7GLJkpnBw=="
+ "sig": "qP1Yy3zbhhzYUiTdStWUrJsHDDYEmW7WpL3cBur3BoBgIUeeZCwqibPw6/Xd7Il4qwnmPrpljIcjM3L9EkJQDg=="
 }

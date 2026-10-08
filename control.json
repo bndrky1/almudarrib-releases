@@ -1,5 +1,5 @@
 {
- "seq": 9,
+ "seq": 10,
  "revoked": [
   "k1-2724"
  ],
@@ -7,8 +7,8 @@
  "extend": {
   "k2-873d": "2026-12-14",
   "k1-14df": "2026-12-07",
-  "k3-7c3a": "2026-10-31"
+  "k3-7c3a": "2026-09-01"
  },
  "msg": "",
- "sig": "t6WFJLOcSISTKpRcJkFM1BwicHeDn+FrPhW9TLYJJVVh6LtH1kWaf6dqyMLuTGTJS2r1hBxsjlDropDt3Fp5BA=="
+ "sig": "2AeWYOVXwpwG6j+35iS3olhWylfsGavMRQ6kOkm/XKPaqoI5TpsNGEcxSF6eIU/g5E+fKX+YGC7VgdXE1isTBw=="
 }
